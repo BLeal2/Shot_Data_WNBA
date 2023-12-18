@@ -1,4 +1,4 @@
-# Shot_Data_WNBA
+# Shot by Shot Data in WNBA
 This github repository uses the Selenium Python library to scrape shot by shot data of WNBA regular season games, spanning from 2017 to 2022.
 
 ### Instructions
